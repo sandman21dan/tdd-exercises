@@ -1,0 +1,31 @@
+{
+  "name": "tdd-exercises",
+  "version": "1.0.0",
+  "description": "Exercises for TDD practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandman21dan/tdd-exercises.git"
+  },
+  "keywords": [
+    "tdd",
+    "jest",
+    "node",
+    "typescript"
+  ],
+  "author": "Daniel Perez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandman21dan/tdd-exercises/issues"
+  },
+  "homepage": "https://github.com/sandman21dan/tdd-exercises#readme",
+  "devDependencies": {
+    "@types/jest": "^24.0.11",
+    "jest": "^24.4.0",
+    "ts-jest": "^24.0.0",
+    "typescript": "^3.3.3333"
+  }
+}
